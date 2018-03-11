@@ -14,5 +14,5 @@ CircleDunk will NOT take any responsibility for any information lost or stolen f
 By buying ‘no ads’ IAP item the user take responsibility of the purchase, we are not responsible for device issues or any other issue that may cause the purchase not to work or complete its purpose.
 
 
-Changes 
+Changes :
 We reserve the right, at our sole discretion, to modify or replace these Terms at any time.
